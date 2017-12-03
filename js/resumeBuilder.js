@@ -4,7 +4,7 @@ var bio = {
 	"contact": {
 		"mobile": "+49 172 89452 77",
 		"email": "sajawal.ghani@gmail.com",
-		"github": "In Progress",
+		"github": "GhaniS",
 		"linkedIn": "sajawal.ghani",
 		"location": "Stuttgart-Germany"
 	},
