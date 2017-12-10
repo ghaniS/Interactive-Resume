@@ -60,7 +60,7 @@ var education = {
 		"name": "University of Stuttgart",
 		"location": "Stuttgart",
 		"degree": "Master of Information Technology",
-		"majors": "Comouter Hardware Software Engineering",
+		"majors": "Computer Hardware Software Engineering",
 		"years": "Oct 2015 - Present",
 		"url": "http://www.uni-stuttgart.de/infotech"
 	},
