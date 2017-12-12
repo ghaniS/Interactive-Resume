@@ -22,7 +22,7 @@ var work = {
 		"location": "Stuttgart- Möhringen",
 		"dates": "Apr 2017 - Nov 2017",
 		"description": "It is a software company which provide 5D simulations to construction companies prior to the actual construction. I am responsible for writing scripts in Javascript which contributes to an overall process of simulating various aspects of construction.",
-		"url": "http://www.uni-stuttgart.de/infotech"
+		"url": "http://www.rib-software.com/"
 	},
 	{
 		"employer": "Institute for Engineering Design and Industrial Design",
@@ -30,7 +30,7 @@ var work = {
 		"location": "Stuttgart - Vaihingen",
 		"dates": "Jan 2015- Mar 2016",
 		"description": "This institute is mainly focused on automobile technology. I as an IT student am assisting them in the electrical parts of the automobile which include several integrated circuits, general wiring in the car, and also circuit maintenance. This job includes the determining of correct voltage value of the sensors in order to gauge the maximum and minimum limits of the design of the test bench. Moreover, I am also partly responsible of the mechanical parts of the test bench ( automobile model) where sometimes I have to build new mechanical part for the car.",
-		"url": "http://www.uni-stuttgart.de/infotech"
+		"url": "https://www.iktd.uni-stuttgart.de/index.php?lang=en"
 
 	}
 	]
